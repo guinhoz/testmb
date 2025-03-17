@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/guinhoz/testmb/compare/v1.0.2...v1.0.3) (2025-03-17)
+
+
+### Bug Fixes
+
+* Rodar pipeline de CI quando houver release criado ([81fc89f](https://github.com/guinhoz/testmb/commit/81fc89f4e8dee8ef8dad73ba3e2004c36e6b9bfb))
+
 ## [1.0.2](https://github.com/guinhoz/testmb/compare/v1.0.1...v1.0.2) (2025-03-17)
 
 
