@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/guinhoz/testmb/compare/v1.0.3...v1.0.4) (2025-03-17)
+
+
+### Bug Fixes
+
+* Ajustado bump version para rodar com o PAT ([ffb122c](https://github.com/guinhoz/testmb/commit/ffb122c323368e81cc6ba0ad9f78d999835765dd))
+
 ## [1.0.3](https://github.com/guinhoz/testmb/compare/v1.0.2...v1.0.3) (2025-03-17)
 
 
