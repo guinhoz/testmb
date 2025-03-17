@@ -11,7 +11,7 @@ RUN microdnf update -y
 
 USER 185
 
-EXPOSE 80
+EXPOSE 3000
 
 COPY --from=builder $HOME $HOME
 
