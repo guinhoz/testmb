@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/guinhoz/testmb/compare/v1.0.1...v1.0.2) (2025-03-17)
+
+
+### Bug Fixes
+
+* Rodar pipeline de CI quando criar tag ([ea5f79f](https://github.com/guinhoz/testmb/commit/ea5f79fb778d85064b12abbe7f6a774739151062))
+
 ## [1.0.1](https://github.com/guinhoz/testmb/compare/v1.0.0...v1.0.1) (2025-03-17)
 
 
