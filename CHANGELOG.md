@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/guinhoz/testmb/compare/v1.0.5...v1.0.6) (2025-03-17)
+
+
+### Bug Fixes
+
+* criando nova release ([6caa28f](https://github.com/guinhoz/testmb/commit/6caa28f4af4fb051b3e5725d291cefa5396a0108))
+* criando nova release ([fd8581a](https://github.com/guinhoz/testmb/commit/fd8581a4ad821d79494a0cec9b0559230b2d9819))
+
 ## [1.0.5](https://github.com/guinhoz/testmb/compare/v1.0.4...v1.0.5) (2025-03-17)
 
 
