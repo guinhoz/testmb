@@ -4,6 +4,7 @@ on:
   workflow_run:
     workflows: ["CI"]
     types: [completed]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -28,7 +29,6 @@ jobs:
     - name: Install Helm
       uses: azure/setup-helm@v3
 
-    # Deploy do Helm Chart no GKE
     - name: Deploy Helm Chart to GKE
       run: |
         helm upgrade --install hello-world ./hello-world --namespace default --set image.tag=${{ github.ref_name }} --wait
