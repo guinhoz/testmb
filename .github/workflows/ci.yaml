@@ -2,11 +2,11 @@ name: CI
 
 on:
   workflow_dispatch:
-  create:
+  release:
+    types: [created]
 
 jobs:
   build-and-publish:
-    if: ${{ startsWith(github.ref, 'refs/tags/v') }}
     runs-on: ubuntu-latest
 
     steps:
