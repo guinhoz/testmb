@@ -1,4 +1,4 @@
-name: CI Pipeline - Docker Build, Security Scan, and Publish
+name: CI
 
 on:
   push:
