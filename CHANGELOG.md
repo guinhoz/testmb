@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/guinhoz/testmb/compare/v1.0.4...v1.0.5) (2025-03-17)
+
+
+### Bug Fixes
+
+* Unificado a pipeline de CI e CD em um unico arquivo ([f8962a2](https://github.com/guinhoz/testmb/commit/f8962a2d2996983afd6eb1f90f01cf25d9778dc2))
+* Unificado a pipeline de CI e CD em um unico arquivo ([f8be41b](https://github.com/guinhoz/testmb/commit/f8be41b6ebe130fcdf937683385835d07fe544a9))
+
 ## [1.0.4](https://github.com/guinhoz/testmb/compare/v1.0.3...v1.0.4) (2025-03-17)
 
 
